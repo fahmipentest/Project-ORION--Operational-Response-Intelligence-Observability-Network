@@ -204,6 +204,17 @@ Centang jika:
 > - [ ] 🔴 Waktu semua VM sinkron (selisih kurang dari 1 menit) agar timestamp alert tidak membingungkan
 > - [ ] 🔴 Snapshot Baseline-Clean sudah dibuat di keempat VM
 
+<img width="1902" height="967" alt="Screenshot 2026-11-11 170454" src="https://github.com/user-attachments/assets/75313dff-de39-4e75-a717-da3c84d00246" />
+<img width="1651" height="651" alt="Screenshot 2026-11-11 170123" src="https://github.com/user-attachments/assets/7e0f2e0d-c543-4bfd-824e-1f280672d494" />
+<img width="508" height="131" alt="Screenshot 2026-11-11 163023" src="https://github.com/user-attachments/assets/279827d6-4b25-4452-8109-ccd76475ed32" />
+<img width="872" height="610" alt="Screenshot 2026-11-11 162506" src="https://github.com/user-attachments/assets/902b3d99-7837-42d4-aee1-02cfa93a2964" />
+<img width="865" height="605" alt="Screenshot 2026-11-11 162532" src="https://github.com/user-attachments/assets/4022a010-c8e3-460b-a920-0b0c76ec40c4" />
+<img width="552" height="243" alt="Screenshot 2026-11-11 162935" src="https://github.com/user-attachments/assets/e3a84ec6-0632-4051-b74d-83b6a063bb4f" />
+
+
+
+
+
 
 ---
 
